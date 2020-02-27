@@ -8,14 +8,3 @@ En GitKraken:
 3) Crear un branch
 4) Agregar 3 cosas al branch
 5) Quitar una de estas
-
-En github:
-1) Agregar algo al branch
-
-En GitKraken:
-1) Actualizar el repositorio local
-2) Modificar (*) que est� en el branch
-3) Realizar un merge con el master
-4) [Se crea conflicto dado al paso 2] Elegir una de las 2 versiones de (*) y guardar una de ellas [pantalla de conflictos]
-5) Irte a una versi�n anterior de la rama principal
-modificando el texto que tiene en común master con branch 
